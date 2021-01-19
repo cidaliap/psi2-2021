@@ -54,11 +54,11 @@
 - [X] [Sources Android](https://github.com/)
 - [X] Architecture
 - [X] Prototype 
-- [ ] Database (Diagram, Structure)
+- [X] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
   - [ ] Git Mobile
-  - [ ] Git APIs
+  - [X] Git APIs
   - [ ] App Web
   - [ ] BD
 - [ ] Unit Tests
